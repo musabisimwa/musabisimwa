@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @musabisimwa
-- 👀 I’m interested in blockchain & smart contract dev
-- 🌱 I’m currently learning substrate and rust
 
 
 <!---
